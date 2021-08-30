@@ -1,7 +1,15 @@
-# Probabilistic Programming and Bayesian Methods for Hackers
-## Using Turing - a Probablistic programming package in the Julia language
+## Probabilistic Programming and Bayesian Methods for Hackers
+### Using Turing - a Probablistic programming package in the Julia language
 
-Open the following links in new tabs
+#### Original content created by Cam Davidson-Pilon
+
+#### Ported to Python 3 and PyMC3 by Max Margenot (@clean_utensils) and Thomas Wiecki (@twiecki) at Quantopian (@quantopian)
+
+#### Ported to Julia 1.6.1 and Turing by Abid
+
+#### The full Github repository is available at github/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers. The other chapters can be found on the project's homepage. We hope you enjoy the book, and we encourage any contributions!
+
+Open the following links in new tabs.
 
 
 ### This chapter talks about the ideas and principles of Bayesian statistics.
