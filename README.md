@@ -9,19 +9,19 @@
 
 #### The full Github repository is available at github/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers. The other chapters can be found on the project's homepage. We hope you enjoy the book, and we encourage any contributions!
 
-Open the following links in new tabs.
+##### Open the following links in new tabs.
 
 
-[### Chapter 1 :- Introduction to Turing](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch1_Introduction_Julia.html)
-### This chapter talks about the ideas and principles of Bayesian statistics.
+[Chapter 1 :- Introduction to Turing](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch1_Introduction_Julia.html)
+#### This chapter talks about the ideas and principles of Bayesian statistics.
 
 
-[### Chapter 2 :- More Turing](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_2_More_Turing.html)
-### Detailed information on how Turing works and also includes a few interesting examples on how to implement models.
+[Chapter 2 :- More Turing](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_2_More_Turing.html)
+#### Detailed information on how Turing works and also includes a few interesting examples on how to implement models.
 
 
-[### Chapter 3 :- MCMC](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_3_MCMC.html)
-### This chapter takes a deep dive into how the MCMC sampling works !!!
+[Chapter 3 :- MCMC](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_3_MCMC.html)
+#### Take a deep dive into how the MCMC sampling works !!!
 
 
 
