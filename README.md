@@ -1,4 +1,4 @@
-# Bayesian Methods for Hackers
+# Probabilistic Programming and Bayesian Methods for Hackers
 ## Using Turing - a Probablistic programming package in the Julia language
 
 Open the following links in new tabs
