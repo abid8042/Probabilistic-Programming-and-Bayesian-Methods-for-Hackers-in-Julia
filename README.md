@@ -5,7 +5,7 @@
 
 #### Ported to Python 3 and PyMC3 by Max Margenot (@clean_utensils) and Thomas Wiecki (@twiecki) at Quantopian (@quantopian)
 
-#### Ported to Julia 1.6.1 and Turing by [Abid] (https://twitter.com/abcd_nahi_abid)
+#### Ported to Julia 1.6.1 and Turing by [Abid](https://twitter.com/abcd_nahi_abid)
 
 #### The full Github repository is available at [Original version](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) and [Julia version](https://github.com/abid8042/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia). The other chapters can be found on the project's homepage. We hope you enjoy the book, and we encourage any contributions!
 
