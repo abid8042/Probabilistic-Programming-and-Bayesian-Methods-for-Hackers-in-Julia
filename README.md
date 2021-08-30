@@ -11,18 +11,18 @@
 
 ##### Open the following links in new tabs.
 
+* [**Chapter 1: Introduction to Bayesian Methods**](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch1_Introduction_Julia.html)
+    Introduction to the philosophy and practice of Bayesian methods and answering the question, "What is probabilistic programming?" Examples include:
+    - Inferring human behaviour changes from text message rates
 
-### [Chapter 1 :- Introduction to Turing](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch1_Introduction_Julia.html)
-#### This chapter talks about the ideas and principles of Bayesian statistics.
+* [**Chapter 2: A little more on Turing**](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_2_More_Turing.html)
+    We explore modeling Bayesian problems using Julia's Turing library through examples. How do we create Bayesian models? Examples include:
+    - Detecting the frequency of cheating students, while avoiding liars
+    - Calculating probabilities of the Challenger space-shuttle disaster
 
-
-### [Chapter 2 :- More Turing](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_2_More_Turing.html)
-#### Detailed information on how Turing works and also includes a few interesting examples on how to implement models.
-
-
-### [Chapter 3 :- MCMC](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_3_MCMC.html)
-#### Take a deep dive into how the MCMC sampling works !!!
-
+* [**Chapter 3: Opening the Black Box of MCMC**](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_3_MCMC.html)
+    We discuss how MCMC operates and diagnostic tools. Examples include:
+    - Bayesian clustering with mixture models
 
 
 
