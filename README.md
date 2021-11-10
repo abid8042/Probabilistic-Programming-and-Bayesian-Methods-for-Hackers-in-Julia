@@ -24,9 +24,26 @@
 
 * [**Chapter 3: Opening the Black Box of MCMC**](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_3_MCMC.html)
    
-   We discuss how MCMC operates and diagnostic tools. Examples include:
-    - Bayesian clustering with mixture models
+   We discuss how MCMC operates and diagnostic tools.
 
+* [**Chapter 4: The Greatest Theorem Never Told**](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch4_LawofLargeNumbers.html)
 
+   We explore an incredibly useful, and dangerous, theorem: The Law of Large Numbers. Examples include:
+   - Exploring a Kaggle dataset and the pitfalls of naive analysis
+ 
+* [**Chapter 5: Would you rather lose an arm or a leg?**](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch_5_LossFunctions.html)
+  
+   The introduction of loss functions and their (awesome) use in Bayesian methods. Examples include:
+   - Solving the Price is Right's Showdown
+   - Optimizing financial predictions
+   - Winning solution to the Kaggle Dark World's competition
 
+* [**Chapter 6: Getting our prior-ities straight**](https://abid8042.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers-in-Julia/Ch6_Priors_Turing.html)
+   
+   Probably the most important chapter. We draw on expert opinions to answer questions. Examples include:
+   - Multi-Armed Bandits and the Bayesian Bandit solution.
+   - What is the relationship between data sample size and prior?
+   
+   We explore useful tips to be objective in analysis as well as common pitfalls of priors.
+   
 
